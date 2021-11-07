@@ -1,0 +1,22 @@
+body {
+    background-color: lightgreen;
+}
+table {
+    margin: auto;
+    width: 800px;
+    height: 300px;
+}
+.Nedelya {
+    background-color: royalblue;
+    color: white;
+}
+.dni {
+    background-color: rgb(93, 151, 218);
+    color: white;
+}
+.uroki {
+    background-color: red;
+}
+h1 {
+    color: red;
+}
